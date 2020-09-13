@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas App should show <App></App> 1`] = `
+<Fragment>
+  <h1>
+    Hola soy Ed
+  </h1>
+  <p>
+    Sub default
+  </p>
+</Fragment>
+`;
+
+exports[`Pruebas App should shpw sub by props 1`] = `
+<Fragment>
+  <h1>
+    Hola soy Ed
+  </h1>
+  <p>
+    Un subtitulo
+  </p>
+</Fragment>
+`;
